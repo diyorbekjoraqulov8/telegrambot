@@ -1,0 +1,356 @@
+[
+  {
+   "text": "Alaqoʻyliq MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "1",
+   "id": "1"
+  },
+  {
+   "text": "Ali qushchi MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "2",
+   "id": "2"
+  },
+  {
+   "text": "Anorzor MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "3",
+   "id": "3"
+  },
+  {
+   "text": "Bahor MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "4",
+   "id": "4"
+  },
+  {
+   "text": "Bashir MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "5",
+   "id": "5"
+  },
+  {
+   "text": "Bektemir MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "6",
+   "id": "6"
+  },
+  {
+   "text": "Beshariq MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "7",
+   "id": "7"
+  },
+  {
+   "text": "Beshterak MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "8",
+   "id": "8"
+  },
+  {
+   "text": "Birlik MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "9",
+   "id": "9"
+  },
+  {
+   "text": "Bog'bon MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "10",
+   "id": "10"
+  },
+  {
+   "text": "Bog'ibaland MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "11",
+   "id": "11"
+  },
+  {
+   "text": "Bo'ston MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "12",
+   "id": "12"
+  },
+  {
+   "text": "Charmgar MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "13",
+   "id": "13"
+  },
+  {
+   "text": "Denov MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "14",
+   "id": "14"
+  },
+  {
+   "text": "Guliston MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "15",
+   "id": "15"
+  },
+  {
+   "text": "Iskana MFY",
+   "link": "https://t.me/iskanauz",
+   "callback_data": "16",
+   "id": "16"
+  },
+  {
+   "text": "Istiqbol MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "17",
+   "id": "17"
+  },
+  {
+   "text": "Jilisuv QFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "18",
+   "id": "18"
+  },
+  {
+   "text": "Katlos MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "19",
+   "id": "19"
+  },
+  {
+   "text": "Kuhsor MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "20",
+   "id": "20"
+  },
+  {
+   "text": "Makrid MFY",
+   "link": "https://t.me/makrid",
+   "callback_data": "21",
+   "id": "21"
+  },
+  {
+   "text": "Mustaqillik MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "22",
+   "id": "22"
+  },
+  {
+   "text": "Navbahor MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "23",
+   "id": "23"
+  },
+  {
+   "text": "Navro'z MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "24",
+   "id": "24"
+  },
+  {
+   "text": "Nurafshon MFY",
+   "link": "https://t.me/nurafshonmfy_uz",
+   "callback_data": "25",
+   "id": "25"
+  },
+  {
+   "text": "Obikanda MFY",
+   "link": "https://t.me/obikanda_uz",
+   "callback_data": "26",
+   "id": "26"
+  },
+  {
+   "text": "Obod MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "27",
+   "id": "27"
+  },
+  {
+   "text": "Oq suv MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "28",
+   "id": "28"
+  },
+  {
+   "text": "Oyoqchi MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "29",
+   "id": "29"
+  },
+  {
+   "text": "Palandara MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "30",
+   "id": "30"
+  },
+  {
+   "text": "Panji MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "31",
+   "id": "31"
+  },
+  {
+   "text": "Parchakent MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "32",
+   "id": "32"
+  },
+  {
+   "text": "Paxtaobod MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "33",
+   "id": "33"
+  },
+  {
+   "text": "Qashqadaryo MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "34",
+   "id": "34"
+  },
+  {
+   "text": "Qaynar MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "35",
+   "id": "35"
+  },
+  {
+   "text": "Qorabuloq MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "36",
+   "id": "36"
+  },
+  {
+   "text": "Qushdaryo MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "37",
+   "id": "37"
+  },
+  {
+   "text": "Samarqand MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "38",
+   "id": "38"
+  },
+  {
+   "text": "Sanam MFY",
+   "link": "https://t.me/sanammfy_uz",
+   "callback_data": "39",
+   "id": "39"
+  },
+  {
+   "text": "Saroy MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "40",
+   "id": "40"
+  },
+  {
+   "text": "Sevaz MFY",
+   "link": "https://t.me/sevazuz",
+   "callback_data": "41",
+   "id": "41"
+  },
+  {
+   "text": "Shurabsoy MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "42",
+   "id": "42"
+  },
+  {
+   "text": "SH.Yulduzi MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "43",
+   "id": "43"
+  },
+  {
+   "text": "Sohibkor MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "44",
+   "id": "44"
+  },
+  {
+   "text": "Surum MFY",
+   "link": "https://t.me/surum_uz",
+   "callback_data": "45",
+   "id": "45"
+  },
+  {
+   "text": "Tevaboshi MFY",
+   "link": "https://t.me/tevaboshiuz",
+   "callback_data": "46",
+   "id": "46"
+  },
+  {
+   "text": "Toshkent MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "47",
+   "id": "47"
+  },
+  {
+   "text": "Tupchok MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "48",
+   "id": "48"
+  },
+  {
+   "text": "Ulug'bek MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "49",
+   "id": "49"
+  },
+  {
+   "text": "Varganza MFY",
+   "link": "https://t.me/varganzauz",
+   "callback_data": "50",
+   "id": "50"
+  },
+  {
+   "text": "X.Do'stligi MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "51",
+   "id": "51"
+  },
+  {
+   "text": "Xo'jailkoni MFY",
+   "link": "https://t.me/xujailmkoniuz",
+   "callback_data": "52",
+   "id": "52"
+  },
+  {
+   "text": "Xoji MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "53",
+   "id": "53"
+  },
+  {
+   "text": "X.Olimjon MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "54",
+   "id": "54"
+  },
+  {
+   "text": "Yakkatut MFY",
+   "link": "https://t.me/yakkatut_uz",
+   "callback_data": "55",
+   "id": "55"
+  },
+  {
+   "text": "Yangiobod MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "56",
+   "id": "56"
+  },
+  {
+   "text": "Yangi Zamon MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "57",
+   "id": "57"
+  },
+  {
+   "text": "Zarafshon MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "58",
+   "id": "58"
+  },
+  {
+   "text": "Sariosiyo MFY",
+   "link": "https://t.me/proweb_info_bot?start=uz_masterclass_blender",
+   "callback_data": "59",
+   "id": "59"
+  }
+ ]
