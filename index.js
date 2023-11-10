@@ -4,7 +4,7 @@ let addressAll = [];
 const axios = require('axios')
 
 // const token = process.env.TOKEN;
-const token = "6917279146:AAGrU8I0csJfRlUvX_hpI0swyOOIVpvtFP0";
+const token = "6934392438:AAGvOfspysbbnVNeaUIxqTZrRfTMZRqoNAI";
 
 const bot = new TelegramBot(token, { polling: true });
 
