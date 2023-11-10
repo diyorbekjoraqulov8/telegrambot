@@ -8,6 +8,8 @@ const token = "6934392438:AAGvOfspysbbnVNeaUIxqTZrRfTMZRqoNAI";
 
 const bot = new TelegramBot(token, { polling: true });
 
+bot.setWebHook('https://telegrambot-3hoe.onrender.com')
+
 let currentAddress;
 let qishloqlar;
 let address;
