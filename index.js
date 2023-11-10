@@ -3,7 +3,8 @@ require('dotenv').config();
 let addressAll = [];
 const axios = require('axios')
 
-const token = process.env.TOKEN;
+// const token = process.env.TOKEN;
+const token = "6917279146:AAGrU8I0csJfRlUvX_hpI0swyOOIVpvtFP0";
 
 const bot = new TelegramBot(token, { polling: true });
 
@@ -15,7 +16,8 @@ let currentPage = 1;
 let pageLimit = 12;
 let addressLength;
 
-const api = process.env.ADDRESS_API;
+// const api = process.env.ADDRESS_API;
+const api = "https://649e7b4c245f077f3e9c6e50.mockapi.io/images";
 
 async function page(arg = [], page, limit) {
   let arr2 = [...arg]
