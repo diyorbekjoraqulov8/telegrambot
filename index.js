@@ -11,6 +11,8 @@ const bot = new TelegramBot(token, { polling: true });
 // bot.setWebHook('https://mahallabot.onrender.com')
 bot.setWebHook('https://api.render.com/deploy/srv-cl739favokcc73auqcm0?key=1tNmyYbG820')
 
+bot.openWebHook()
+
 let currentAddress;
 let qishloqlar;
 let address;
