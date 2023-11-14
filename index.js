@@ -4,11 +4,11 @@ let addressAll = [];
 const axios = require('axios')
 
 // const token = process.env.TOKEN;
-const token = "6934392438:AAGvOfspysbbnVNeaUIxqTZrRfTMZRqoNAI";
+const token = "6503495559:AAGJGEcF3ngQV5saHEtEsEeClUOJHsf_ZQc";
 
 const bot = new TelegramBot(token, { polling: true });
 
-bot.setWebHook('https://mahallabot.onrender.com')
+// bot.setWebHook('https://mahallabot.onrender.com')
 
 let currentAddress;
 let qishloqlar;
