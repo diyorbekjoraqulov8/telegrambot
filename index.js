@@ -4,14 +4,14 @@ let addressAll = [];
 const axios = require('axios')
 
 // const token = process.env.TOKEN;
-const token = "6917279146:AAGrU8I0csJfRlUvX_hpI0swyOOIVpvtFP0";
+const token = "6682255149:AAF8hwYf3ffwJ999DcM7FgTVGrdtlLPXB6I";
 
 const bot = new TelegramBot(token, { polling: true });
 
 // bot.setWebHook('https://mahallabot.onrender.com')
-bot.setWebHook('https://api.render.com/deploy/srv-cl739favokcc73auqcm0?key=1tNmyYbG820')
+// bot.setWebHook('https://api.render.com/deploy/srv-cl739favokcc73auqcm0?key=1tNmyYbG820')
 
-bot.openWebHook()
+// bot.openWebHook()
 
 let currentAddress;
 let qishloqlar;
